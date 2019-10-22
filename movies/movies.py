@@ -8,6 +8,8 @@ class Movie():
         self.poster_url = movie_poster
         self.youtube_trailer_url = movie_trailer
 
+        # https://www.youtube.com/watch?v=S8obCz5NSog
+
 
 
 

@@ -1,0 +1,30 @@
+p {
+
+}
+
+.title{
+
+background-color: #33bebe;
+
+}
+
+.app{
+display: flex;
+display: -webkit-flex;
+
+}
+
+.image {
+    max-width: 460px;
+    margin-right: 40px;
+}
+
+.description {
+
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    max-width: 705px;
+}
+
