@@ -2,9 +2,10 @@ import os
 
 
 def rename_files():
-    file_list = os.listdir("/home/mufasa/Desktop/prank")
+    os.chdir('/home/mufasa/Desktop/prank')
+    file_list = os.listdir('/home/mufasa/Desktop/prank')
     path = os.getcwd()
-    os.chdir("/home/mufasa/Desktop/prank")
+    # os.chdir('/home/mufasa/Desktop/prank')
     # print(file_list)
     # print("We are in: " +path)
 
