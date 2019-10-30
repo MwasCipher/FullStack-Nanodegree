@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd46959f-2084-42f5-a1fa-a026eaec2a6b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HTML/portfolio/images/passport.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/portfolio/images/wolf.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/portfolio/framework/css/bootstrap/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/portfolio/framework/css/bootstrap/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/portfolio/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +15,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTML/portfolio/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML/portfolio/framework/css/bootstrap/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="200" column="21" selection-start-line="200" selection-start-column="21" selection-end-line="200" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,12 +55,13 @@
         <option value="$PROJECT_DIR$/movies/movies.py" />
         <option value="$PROJECT_DIR$/HTML/style.css" />
         <option value="$PROJECT_DIR$/HTML/index.html" />
-        <option value="$PROJECT_DIR$/HTML/portfolio/index.html" />
         <option value="$PROJECT_DIR$/HTML/portfolio/framework/css/main.css" />
         <option value="$PROJECT_DIR$/HTML/intro/style.css" />
         <option value="$PROJECT_DIR$/rename.py" />
         <option value="$PROJECT_DIR$/rename/rename.py" />
         <option value="$PROJECT_DIR$/rename/another_rename.py" />
+        <option value="$PROJECT_DIR$/HTML/portfolio/framework/css/bootstrap/bootstrap.css" />
+        <option value="$PROJECT_DIR$/HTML/portfolio/index.html" />
       </list>
     </option>
   </component>
@@ -68,6 +92,19 @@
               <item name="FullStack Nanodegree" type="b2602c69:ProjectViewProjectNode" />
               <item name="FullStack Nanodegree" type="462c0819:PsiDirectoryNode" />
               <item name="HTML" type="462c0819:PsiDirectoryNode" />
+              <item name="intro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FullStack Nanodegree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FullStack Nanodegree" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
+              <item name="intro" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FullStack Nanodegree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FullStack Nanodegree" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -84,6 +121,15 @@
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FullStack Nanodegree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FullStack Nanodegree" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FullStack Nanodegree" type="b2602c69:ProjectViewProjectNode" />
@@ -108,12 +154,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/HTML/images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HTML/portfolio/images" />
+      <recent name="$PROJECT_DIR$/HTML/portfolio/framework" />
+      <recent name="$PROJECT_DIR$/HTML/portfolio/framework/css" />
       <recent name="$PROJECT_DIR$/rename" />
       <recent name="$PROJECT_DIR$/HTML/intro" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HTML/portfolio/images" />
+      <recent name="$PROJECT_DIR$/HTML/intro/images" />
+      <recent name="$PROJECT_DIR$/HTML/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -193,6 +244,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -277,13 +329,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/portfolio/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/square.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -298,16 +343,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/portfolio/framework/css/bootstrap/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/portfolio/framework/css/bootstrap/bootstrap.css.map">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML/portfolio/framework/css/bootstrap/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/portfolio/framework/css/bootstrap/bootstrap-grid.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML/portfolio/framework/css/bootstrap/bootstrap-reboot.css">
@@ -351,6 +390,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML/portfolio/framework/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/portfolio/images/passport.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/portfolio/framework/css/bootstrap/bootstrap-grid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2385" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/portfolio/framework/css/bootstrap/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="200" column="21" selection-start-line="200" selection-start-column="21" selection-end-line="200" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/portfolio/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
