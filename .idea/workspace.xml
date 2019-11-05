@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd46959f-2084-42f5-a1fa-a026eaec2a6b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Start/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Start/main.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Start/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+            <state relative-caret-position="284">
+              <caret line="373" column="13" lean-forward="true" selection-start-line="373" selection-start-column="13" selection-end-line="373" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -42,7 +42,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Start/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-24" />
+            <state relative-caret-position="60">
+              <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -84,6 +86,8 @@
         <option value="$PROJECT_DIR$/HTML/portfolio/framework/css/bootstrap/bootstrap.css" />
         <option value="$PROJECT_DIR$/HTML/portfolio/index.html" />
         <option value="$PROJECT_DIR$/HTML/portfolio/framework/css/style.css" />
+        <option value="$PROJECT_DIR$/Start/index.html" />
+        <option value="$PROJECT_DIR$/Start/main.css" />
       </list>
     </option>
   </component>
@@ -213,6 +217,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -384,13 +389,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Start/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-24" />
+        <state relative-caret-position="60">
+          <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Start/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+        <state relative-caret-position="284">
+          <caret line="373" column="13" lean-forward="true" selection-start-line="373" selection-start-column="13" selection-end-line="373" selection-end-column="13" />
         </state>
       </provider>
     </entry>
