@@ -26,8 +26,9 @@ def valid_month(month):
 
 form = """
     <form action="/foo">
-	   <label>Month</label> <input type="text" name="month"> <label>Day</label>
-	   <input type="" name="day"> <label>Year</label><input type="" name="year"> <br>
+	    <label>Month</label> <input type="text" name="month">
+	    <label>Day</label><input type="" name="day">
+	    <label>Year</label><input type="" name="year"> <br>
 	    <input type="submit" name="">
     </form>
 
