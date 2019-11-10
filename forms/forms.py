@@ -1,5 +1,26 @@
 import webapp2
 
+months = ['January',
+          'February',
+          'March',
+          'April',
+          'May',
+          'June',
+          'July',
+          'August',
+          'September',
+          'October',
+          'November',
+          'December']
+
+
+def valid_month(month):
+    month = month.capitalize()
+    if month in months:
+        return month
+    else:
+        return None
+
 form = """
 
     <form action="/foo">
