@@ -13,6 +13,8 @@ months = ['January',
           'November',
           'December']
 
+month_abbreviations = dict((m[:3].lower(), m) for m in months)
+
 
 def valid_month(month):
     month = month.capitalize()
