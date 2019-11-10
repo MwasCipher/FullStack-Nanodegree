@@ -21,10 +21,12 @@ def valid_month(month):
     else:
         return None
 
-form = """
 
+form = """
     <form action="/foo">
-	    <input type="" name="name"> <input type="submit" name="">
+	   <label>Month</label> <input type="text" name="month"> <label>Day</label>
+	   <input type="" name="day"> <label>Year</label><input type="" name="year"> <br>
+	    <input type="submit" name="">
     </form>
 
 """
